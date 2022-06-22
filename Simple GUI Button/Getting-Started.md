@@ -1,2 +1,1 @@
-- Download [Processing](https://processing.org/)
 - Install the [controlP5](https://www.sojamo.de/libraries/controlP5/) library
